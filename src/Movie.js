@@ -3,12 +3,6 @@ import PropTypes from 'prop-types';
 import './Movie.css';
 import LinesEllipsis from 'react-lines-ellipsis';
 
-// class Movie extends Component{
-//     static propTypes={
-//         title: PropTypes.string.isRequired,
-//         poster: PropTypes.string.isRequired
-//     }
-
 
 //     render(){
 //         //console.log(this.props.title);
